@@ -18,3 +18,5 @@ function johnLennonFacts(arr1) {
   }
   return empty;
 }
+
+function iLoveTheBeetles()
