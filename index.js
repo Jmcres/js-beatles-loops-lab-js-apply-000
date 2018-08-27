@@ -7,3 +7,14 @@ function theBeatlesPlay(arr1, arr2){
   }
   return empty;
 }
+
+
+function johnLennonFacts(arr1) {
+  var empty =[];
+  var i = 0;
+  while (i <arr1.length){
+    empty.push(arr[i]+"!");
+    i++
+  }
+  return empty;
+}
