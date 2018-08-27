@@ -19,4 +19,10 @@ function johnLennonFacts(arr1) {
   return empty;
 }
 
-function iLoveTheBeetles()
+function iLoveTheBeetles(number){
+  var empty = [];
+  var i = 0;
+  do {
+    empty.push("I love the Beatles!");
+  } while(i< number +1 && number < 15)
+}
